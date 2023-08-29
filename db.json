@@ -6,7 +6,8 @@
 			"baths": "2",
 			"location": "Gaza",
 			"bedroom":"2",
-			"Garden":"yes"
+			"Garden":"yes",
+			"price":"105"
 		},
 		{
 			"id": 2,
@@ -15,7 +16,8 @@
 			"baths": "3",
 			"location": "Khanyounis",
 			"bedroom":"2",
-			"Garden":"yes"
+			"Garden":"yes",
+			"price":"200"
 		},
 		{
 			"id": 3,
@@ -24,7 +26,8 @@
 			"baths": "1",
 			"location": "Rafah",
 			"bedroom":"2",
-			"Garden":"no"
+			"Garden":"no",
+			"price":"75"
 			
 		},
 		{
@@ -34,7 +37,8 @@
 			"baths": "1",
 			"location": "Rafah",
 			"bedroom":"2",
-			"Garden":"no"
+			"Garden":"yes",
+			"price":"300"
 			
 		}
 	],
